@@ -1,0 +1,8 @@
+*.pyc
+*.pyproj
+*.sln
+*.user
+*.TODO
+scratchpad.py
+.vs/
+.vscode/
